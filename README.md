@@ -1,4 +1,3 @@
-# inventory-system
 # Inventory & Asset Tracking System
 
 ## Overview
